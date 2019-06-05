@@ -1,4 +1,4 @@
-我的git账号和密码：601647233@qq.com    hsgxxxxxxxx
+我的git账号和密码：601647233@qq.com   xxxxxxxxxxx
 git操作创建时的通常几个步骤：
 1.电脑端创建一个文件夹：
   然后git init
